@@ -1,0 +1,7 @@
+var name = "Bakhytzhan";
+var surname = "Kunedilov";
+var age = 20;
+function Intro() {
+    console.log("My name is " + name + " " + surname + ". " + "I'm " + age + " years old");
+    }
+Intro();
