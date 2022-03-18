@@ -1,0 +1,11 @@
+<DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>BKunedilov</title>
+<link href="cssZadanie7.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<button class="but">Подписаться</button>
+</body>
+</html>
