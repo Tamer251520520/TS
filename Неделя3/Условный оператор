@@ -1,0 +1,7 @@
+var bally = 76;
+if (bally > 74) {
+console.log("Студент сдал экзамен");
+}
+else {
+    console.log("Студент не сдал экзамен");
+}
