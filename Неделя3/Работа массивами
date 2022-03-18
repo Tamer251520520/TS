@@ -1,0 +1,6 @@
+var arr = [9, 4, 0, 2, 1, 69];
+for(var i = 0; i < arr.length; i++) {
+ arr[i] *= 3;
+ console.log("Элемент " + (i + 1) + ": " + arr[i]);
+}
+© 2022 GitHub, Inc.
