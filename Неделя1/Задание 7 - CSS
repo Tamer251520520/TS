@@ -1,0 +1,16 @@
+.but {
+position: absolute;
+padding: 25px 20px;
+font-size: 35px;
+font-weight: bold;
+cursor: pointer;
+text-align: center;
+text-decoration: none;
+outline: none;
+color: #fff;
+background-color: #a05b38;
+border: none;
+border-radius: 50px;
+border-style: solid;
+border-color: #773e21
+}
