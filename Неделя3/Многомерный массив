@@ -1,0 +1,2 @@
+var x = new Array(new Array(1,25,6), new Array(2,3,4));
+console.log(x[0][1]);
