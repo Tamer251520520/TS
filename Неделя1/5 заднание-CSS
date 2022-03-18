@@ -1,0 +1,43 @@
+Style.css
+body {
+ margin: 0;
+}
+.block1 {
+ float: left;
+ width: 250px;
+}
+.block2 {
+ float: right;
+ width: 250px;
+}
+.text {
+ padding: 10px 30px;
+ background-color: rgb(255, 0, 212);
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ font-size: x-large;
+ font-weight: 100;
+ text-align: left;
+ color: rgb(255, 255, 255);
+ border-radius: 10px;
+ border-color: rgb(182, 26, 182);
+}
+.button {
+ padding: 10px;
+ border-color: green;
+ border-radius: 20px;
+ margin: 10px 0px;
+ color: green;
+}
+.text_one {
+ padding: 15px 15px;
+ border-radius: 35px;
+ font-size: large;
+ border-color: indigo;
+ color: mediumturquoise;
+}
+.button_one {
+ margin: 20px 0px;
+ padding: 20px 10px;
+ border-color: olive;
+ font-size: 20px;
+}
