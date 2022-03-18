@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Кнопка 2 задания</title>
+        <link rel="stylesheet" href="css/styl.css" type="text/css"/>
+    </head>
+    
+    <body>
+        <button class="but">Подписаться</button>
+    </body>
+    
+</html>    
+
+.but {
+  position: absolute;
+  padding:v25px 20px;
+  font-size: 35px;
+  font-weight: blod;
+  cursor: pointer;
+  text-aling: center;
+  text-decoration: none;
+  outline: #fff;
+  background-color: #a05b38;
+  border: none;
+  border-radius: 50px;
+  border-tyle: solid;
+  border-color: #773e21
+}
